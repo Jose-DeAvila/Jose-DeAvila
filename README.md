@@ -9,8 +9,8 @@ I've been learning to code from 5 years. And now i'm focused on the frontend dev
 * 🌍  I'm based in Cartagena, Colombia 🏖️
 * 🖥️  See my portfolio at [GitHub](http://jose-deavila.github.io/portfolio/)
 * ✉️  You can contact me at [joseluisdeavila01@gmail.com](mailto:joseluisdeavila01@gmail.com)
-* 🚀  I'm currently working on [Skydropx 📦](http://skydropx.com)
-* 🧠  I'm learning GraphQL
+* 🚀  I'm currently working on [Pragma](https://pragma.com.co/)
+* 🧠  I'm Mobile Development
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
